@@ -3,3 +3,5 @@ Blå
 Pizza
 
 Nu kommer der mere info!
+
+Jeg kan ikke stoppe med at commit!
