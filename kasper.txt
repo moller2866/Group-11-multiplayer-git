@@ -1,2 +1,3 @@
 Name: Kasper
 Lastname: Møller
+Fav joke: LoL
